@@ -11,5 +11,8 @@ p {
   margin-top: 30px;
   line-height: 1.6;
 }
+section p {
+  text-align: center;
+}
 
 
